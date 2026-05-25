@@ -1,0 +1,7 @@
+{
+  "name": "estoque-api",
+  "type": "module",
+  "dependencies": {
+    "@octokit/rest": "^21.0.2"
+  }
+}
