@@ -1,0 +1,18 @@
+[
+  {
+    "id": "prod_1",
+    "sku": "SKU-001",
+    "name": "Parafuso 4mm",
+    "quantity": 100,
+    "price": 0.25,
+    "createdAt": "2026-05-24T00:00:00Z"
+  },
+  {
+    "id": "prod_2",
+    "sku": "SKU-002",
+    "name": "Porca 4mm",
+    "quantity": 200,
+    "price": 0.15,
+    "createdAt": "2026-05-24T00:00:00Z"
+  }
+]
